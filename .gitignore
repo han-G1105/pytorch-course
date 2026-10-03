@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data / outputs
+data/
+outputs/
+
+# PyTorch model weights
+*.pt
+*.pth
+*.ckpt
+
+# OS
+.DS_Store
